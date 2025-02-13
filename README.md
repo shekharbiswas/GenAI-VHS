@@ -21,3 +21,4 @@ Overall GenAI Ecosystem and Terminologies
 ## Session 2
 
 [Inside GenAI](https://docs.google.com/presentation/d/1tSQ7UmpX9eQChGRnZ73DJ7KuOU2OCIqtz1t7Ltu1-b4/pub?start=false&loop=false&delayms=3000&slide=id.g2fd359e8f7b_1_0)
+[Colab](https://colab.research.google.com/drive/11-BRlMcBNyy1Sx8iqYe2B1cOVrZtLmul?usp=sharing)
