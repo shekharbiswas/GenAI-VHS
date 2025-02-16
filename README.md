@@ -16,7 +16,7 @@ If you aspire to supercharge your software development and stay at the forefront
 
 Overall GenAI Ecosystem and Terminologies
 
-[Slides](https://docs.google.com/presentation/d/1ctnZc8YuG2IkLR9VGLaODZBlFmsVXYkfIz1W-Xk16RY/pub?start=false&loop=false&delayms=3000)
+[Intro to GenAI](https://docs.google.com/presentation/d/1ctnZc8YuG2IkLR9VGLaODZBlFmsVXYkfIz1W-Xk16RY/pub?start=false&loop=false&delayms=3000)
 
 ## Session 2
 
