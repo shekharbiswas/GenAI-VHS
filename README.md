@@ -25,5 +25,5 @@ Overall GenAI Ecosystem and Terminologies
 
 ## Session 3
 
-[LLM - VectorDB](https://docs.google.com/presentation/d/e/2PACX-1vQm_br2u4l0y3M6ApV4BBWkKQM8-Hb4jvQ5BDe87AQF1KmjKFgAyJmiNLMM8Xk9sSIMGmJlr_B0EBXQ/pub?start=false&loop=false&delayms=3000)
-[Colab](https://colab.research.google.com/drive/1gp_Wf4B_L7RCuaSyQTpxiIiaYPs53vB4?usp=sharing)
+- [LLM - VectorDB](https://docs.google.com/presentation/d/e/2PACX-1vQm_br2u4l0y3M6ApV4BBWkKQM8-Hb4jvQ5BDe87AQF1KmjKFgAyJmiNLMM8Xk9sSIMGmJlr_B0EBXQ/pub?start=false&loop=false&delayms=3000)
+- [Colab](https://colab.research.google.com/drive/1gp_Wf4B_L7RCuaSyQTpxiIiaYPs53vB4?usp=sharing)
